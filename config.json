@@ -9,5 +9,7 @@
     "startSite":"02/05/2025",
     "onePageListNum":15,
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "i18n":"CN"
+    "i18n":"CN",
+    "UTC":8,
+    "showPostSource":0
 }
